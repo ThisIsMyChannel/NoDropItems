@@ -1,2 +1,2 @@
 # NoDropItems
-This plugin makesù sure items can not be dropped.
+This plugin make sure items can not be dropped.
